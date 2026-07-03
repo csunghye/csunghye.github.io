@@ -1,7 +1,7 @@
 ---
 title: "Prosody during tongue twisters in children with autism: Sex differences and correlations with symptom severity"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-01-01-prosody-during-tongue-twisters-in-children-with-autism-sex-differences-and-corre
 excerpt: 'Publication entry for Prosody during tongue twisters in children with autism: Sex differences and correlations with symptom severity.'
 date: 2026-01-01
