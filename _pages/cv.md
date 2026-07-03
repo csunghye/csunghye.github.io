@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Linguistics, University of Pennsylvania, 2017
+* M.A. in English linguistics, Ewha Womans University, 2011
+* B.A. in English language and literature, Ewha Womans University, 2008
 
 Work experience
 ======
