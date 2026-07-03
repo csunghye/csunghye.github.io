@@ -1,7 +1,7 @@
 ---
 title: "Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classification"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-01-01-speech-prosody-in-schizophrenia-spectrum-disorders-perceptual-evaluation-and-mac
 excerpt: 'Publication entry for Speech Prosody in Schizophrenia Spectrum Disorders: Perceptual Evaluation and Machine Classification.'
 date: 2026-01-01
